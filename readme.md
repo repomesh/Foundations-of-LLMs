@@ -1,3 +1,7 @@
+✨ News: 我们开源了一款多智能体开发框架**Agent-Kernel**，可以帮助大家快速搭建大规模智能体系统，轻松开发一个包含一万个智能体的多智能体系统！加入我们一起见证群体智能的未来吧！
+
+Github 地址: https://github.com/ZJU-LLMs/Agent-Kernel/tree/main
+
 <h1 align="center">大模型基础</h1>
 
 
